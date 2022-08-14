@@ -1,4 +1,4 @@
 # Python_Data_structure
-![Data Structures in Python]([http://url/to/img.png](https://www.google.com/search?q=data+structure+in+python&rlz=1C5CHFA_enBD877BD877&source=lnms&tbm=isch&sa=X&ved=2ahUKEwix6tPm5Mb5AhUDAbcAHZ3bB38Q_AUoAnoECAEQBA&biw=1920&bih=1000&dpr=1#imgrc=iVrS585sLqC6cM&imgdii=vKs1QT61bsrYlM))
+![Alt text]([relative/path/to/img.jpg](https://global-uploads.webflow.com/6007f8b630f7e5727bc2e10d/6189918d43825ea7b7a2d686_61898ea4cf37648fdd8afeda_5_2rAWPbNtIiP4X7CtwuSS42TF1o-I-jv_pjgKWkw_DcPs46aENTDbTLMv6jfVUZcwMqbm3U2N9tsBxoHJxBezVroAcEb9S3XBychKqDvw_W2ea7AX6EU462pXSIEq4fT21_8dra.jpeg)?raw=true "Title")
 
 
